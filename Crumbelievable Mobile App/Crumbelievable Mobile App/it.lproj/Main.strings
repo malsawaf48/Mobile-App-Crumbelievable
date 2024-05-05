@@ -1,0 +1,563 @@
+
+/* Class = "UIButton"; configuration.title = "Payment Information"; ObjectID = "0CZ-Qg-5T3"; */
+"0CZ-Qg-5T3.configuration.title" = "Payment Information";
+
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0CZ-Qg-5T3"; */
+"0CZ-Qg-5T3.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "0XY-qP-IqC"; */
+"0XY-qP-IqC.title" = "Back";
+
+/* Class = "UITextField"; text = "1 Cookie"; ObjectID = "0kB-Yu-hZI"; */
+"0kB-Yu-hZI.text" = "1 Cookie";
+
+/* Class = "UIButton"; configuration.title = "Order Now"; ObjectID = "1M5-cc-1Tc"; */
+"1M5-cc-1Tc.configuration.title" = "Order Now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1M5-cc-1Tc"; */
+"1M5-cc-1Tc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "View Item"; ObjectID = "1ZI-UE-aie"; */
+"1ZI-UE-aie.text" = "View Item";
+
+/* Class = "UITabBarItem"; title = "Order"; ObjectID = "2LG-Fj-MjT"; */
+"2LG-Fj-MjT.title" = "Order";
+
+/* Class = "UILabel"; text = "Push"; ObjectID = "2eT-Cs-NnD"; */
+"2eT-Cs-NnD.text" = "Push";
+
+/* Class = "UIButton"; configuration.title = "Terms and Privacy"; ObjectID = "2fP-bm-kFF"; */
+
+"2fP-bm-kFF.configuration.title" = "Termini e Privacy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2fP-bm-kFF"; */
+"2fP-bm-kFF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "30 p"; ObjectID = "3iG-fP-utS"; */
+"3iG-fP-utS.text" = "30 p";
+
+/* Class = "UILabel"; text = "12 Oz"; ObjectID = "5C7-pm-XIt"; */
+"5C7-pm-XIt.text" = "12 Oz";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Sj-sr-cqH"; */
+"5Sj-sr-cqH.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "5lv-xr-0M9"; */
+"5lv-xr-0M9.title" = "Home";
+
+/* Class = "UIButton"; configuration.title = "Order Now"; ObjectID = "5nq-N3-V79"; */
+"5nq-N3-V79.configuration.title" = "Order Now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5nq-N3-V79"; */
+"5nq-N3-V79.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "63O-lL-2Dk"; */
+"63O-lL-2Dk.text" = "Email";
+
+/* Class = "UILabel"; text = "Espresso"; ObjectID = "6Vr-JT-BPW"; */
+"6Vr-JT-BPW.text" = "Espresso";
+
+/* Class = "UILabel"; text = "Example text description. Earn 100 points to indulge in this special reward. Choose two cookies from our full menu, perfect for sharing with someone special (or not!). Create a memorable moment with any of our classic or seasonal flavors."; ObjectID = "6oI-PF-KHU"; */
+"6oI-PF-KHU.text" = "Example text description. Earn 100 points to indulge in this special reward. Choose two cookies from our full menu, perfect for sharing with someone special (or not!). Create a memorable moment with any of our classic or seasonal flavors.";
+
+/* Class = "UILabel"; text = "Espresso"; ObjectID = "89Q-VC-Frt"; */
+"89Q-VC-Frt.text" = "Espresso";
+
+/* Class = "UIBarButtonItem"; title = "Cart"; ObjectID = "8LO-nS-cu0"; */
+"8LO-nS-cu0.title" = "Cart";
+
+/* Class = "UILabel"; text = "50 pts"; ObjectID = "8Wq-YU-oZg"; */
+"8Wq-YU-oZg.text" = "50 pts";
+
+/* Class = "UILabel"; text = "Example Top Item"; ObjectID = "ACK-bT-eaV"; */
+"ACK-bT-eaV.text" = "Example Top Item";
+
+/* Class = "UILabel"; text = "130"; ObjectID = "APj-n3-pC9"; */
+"APj-n3-pC9.text" = "130";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "AZV-a0-et0"; */
+"AZV-a0-et0.text" = "Americano";
+
+/* Class = "UILabel"; text = "Already a member?"; ObjectID = "BY7-I6-Zad"; */
+"BY7-I6-Zad.text" = "Already a member?";
+
+/* Class = "UILabel"; text = "Example Seasonal Cookie"; ObjectID = "BmJ-0o-xCg"; */
+"BmJ-0o-xCg.text" = "Example Seasonal Cookie";
+
+/* Class = "UILabel"; text = "1/1/1999"; ObjectID = "Bnl-VE-gKy"; */
+"Bnl-VE-gKy.text" = "1/1/1999";
+
+/* Class = "UITextView"; text = " 1. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS OF SERVICE\nTHIS IS A LEGAL AGREEMENT BETWEEN YOU (\"USER\" OR \"YOU\") AND CRUMBELIEVEABLE INC (\"Crumbelieveable\"). BY COMPLETING THE REGISTRATION PROCESS, YOU ARE INDICATING YOUR AGREEMENT TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. The Online Service (\"Service\") is provided to you (\"User\") under the following Crumbelieveable terms (\"Terms\"). The Terms comprise the entire agreement between User and CRUMBELIEVEABLE and supersede all prior agreements between the parties regarding the subject matter contained herein.\n\n\n2. DESCRIPTION OF SERCRUMBELIEVEABLE is providing User with a capability to create and convert PDF files. User must: (1) provide all equipment and communications services, including a computer and modem, necessary to establish a connection to the World Wide Web and (2) provide for own access to the World Wide Web and pay any connection and service fees associated with such access. In consideration for this Service, User agrees to: (1) provide certain current, complete, and accurate information about User as prompted to do so by the Service and (2) maintain and update this information as required to keep it current, complete and accurate. All information requested on original sign up shall be referred to as registration Information (\"Registration InformatioCRUMBELIEVEABLE will maintain Registration Information in accordance with these Terms and then current PDF Copy Paste privacy policy, available at http://www.pdfcopypaste.com/privacy.html. Should there be any conflict between these Terms and Wondersoft's privacy policy, these Terms shall supersede the privacy policy. You authorize a recurring monthly or annual charge to your credit card in exchange for use ofCRUMBELIEVEABLE service as indicated by published standard plans or a customized quote provided for your specific use. You also agree that the enrollment for the next service period is automatic. Please note that refunds on a pro-rated basis are issued only for yearly plans. When yearly subscriptions are cancelled before the subscriptions end, refunds are issued based on a pro-rated calculation of the subscription charges at the monthly rate for the plan, for the actual number of months the account was subscribed (the number of months between the most recent yearly charges and the cancellation date). If the calculated refund amount exceeds the yearly subscription rate, then no refund is issuCRUMBELIEVEABLE will not issue any pro-rated refunds for the remaining period during the month when an account with a monthly subscription plan (\"current plan\") is downgraded to a smaller plan (\"new plan\") (a plan that costs less per month than the current plan) during the middle of a month. However the rate applicable to the new plan will automatically be charged starting the first of the subsequent month, and you must contact sales@pdfcopypaste.com in order to downgrade. If you attempt to sign up for a downgraded account via the online system, it will be considers as a new account and therefore you will be charged for both accounts until you cancel your old subscription.\n\n\n\n3. CONDITIONS OF USE\nYou are solely responsible for the content of all data You store or retrieve from, or attempt to store or retrieve from, Your Account. Your use of the Service is subject to all applicable local, state, national and international laws and regulations. You will: (a) not use the Service for any illegal purposes; (b) not use the Service to store, retrieve, transmit or view any file, data, image or program that contains: (i) any illegal pictures, materials or information; (ii) any harassing, libelous, abusive, threatening, harmful, vulgar, pornographic, obscene or otherwise objectionable material of any kind or nature; (iii) any material that encourages conduct that could constitute a criminal offense, give rise to civil liability or otherwise violate any applicable local, state, national or international law or regulation; (iv) any code or material that violates the intellectual property rights of others; (v) any Windows temporary files of any kind (including, without limitation, any *.p or ~*.* files); or (vi) any viruses, worms, \"Trojan horses\" or any other similar contaminating or destructive features; (c) comply with United States and other applicable law regarding the exportation and re-exportation of any data or other materials from the United States or other jurisdictions through the Service; (d) not use the Service for any spamming, chain letters or other use that may otherwise disrupt the Service or the networks through which You access and use the Service; (e) comply with all regulations, policies and procedures of networks through which You access and use the Service; and (f) not access or attempt to access any Service account for which You have no access authorization or duplicate, modify, distribute or display any of the data or files from any such account.CRUMBELIEVEABLE PDF creation service should not be used to sell digital content to others. It is not a media for dissemination of digital content for commercial purposes. WE WILL NOT APPROACH YOUR DATA BUT IF WE SUSPECT ILLEGAL ACTIVITY WE WILL NOTIFY YOU FOR ACCOUNT TERMINATION\n\n4. MODIFICATIONS TO SERCRUMBELIEVEABLE reserves the right to modify or discontinue the Service with or without notice to UCRUMBELIEVEABLE shall not be liable to User or any third party shCRUMBELIEVEABLE exercise its right to modify or discontinue the Service.\n\n5. AUTOMATIC CONVERSION OF TRIAL TO PAID ACCOCRUMBELIEVEABLE may offer trial accounts that require users to provide credit card information which may be used to convert the trial to a paid account at the end of free trial period. If the card transaction fails at the end of free trial period, an email would be sent to the user requesting the user to upgrade the account manually online. In such a case, if the user fails to upgrade to a paid account within three business days, account will be suspended.\n\n6. USER ACCOUNT, PASSWORD, AND SECURITY\nOnce you become a User of the Service, you shall receive a password and an account. You are entirely responsible if you do not maintain the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities which occur under your account. You may change your password at any time by following instructions which we provide to you through our on line support. You agree to immediately noCRUMBELIEVEABLE of any unauthorized use of your account or any other breach of security of which you become aware.\n\n7. DISCLAIMER OF WARRANTIES\nUSER EXPRESSLY AGREES THAT USE OF THE SERVICE IS AT USER'S SOLE RISK. ALTHCRUMBELIEVEABLE WILL ATTEMPT TO PROVIDE UNINTERRUPTED, TIMELY, AND SECURE SERVICRUMBELIEVEABLE MAKES NO REPRESENTATION THAT IT WILL BE ABLE TO DO SO. THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BACRUMBELIEVEABLE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMCRUMBELIEVEABLE MAKES NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, OR THAT THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR FREE. USER UNDERSTANDS AND AGREES THAT ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT USER'S OWN DISCRETION AND RISK AND THAT USER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO USER'S COMPUTER \\ SYSTEM OR LOSS OF DATA OR UNAUTHORIZED DISCLOSURE OF DATA THAT RESULTS FROM THE UPLOAD, DOWNLOAD OR STORAGE OF SUCH MATERIAL AND/OR DCRUMBELIEVEABLE MAKES NO WARRANTY REGARDING ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH THE SERVICE OR ANY TRANSACTIONS ENTERED INTO THROUGH THE SERVICE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY USER CRUMBELIEVEABLE OR THROUGH THE SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.\n\n8. LIMITATIONS OF LIABILITY\nIN NO EVENT SCRUMBELIEVEABLE OR ITS ADVERTISERS OR SUPPLIERS HAVE ANY OBLIGATION OR LIABILITY TO YOU FOR THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES OR DATA OR FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, ANY LOSS OF DATA, REVENUE OR PROFITS OR BUSINESS INTERRUPTION) OR OTHER PECUNIARY LOSS ARISING OUT OF YOUR USE OR INABILITY TO USE YOUR ACCOUNT OR THE SERVICE OR YOUR LOSS OF DATA OR FILES STORED THEREIN.\n\n9. NO RESALE OR COMMERCIAL USE OF THE SERVICE\nUser's right to use the Service is personal to User. User agrees not to resell or make any commercial use of the Service, without the prior express written consenCRUMBELIEVEABLE.\n\n10. SECURITY OF STORED DATA AND FCRUMBELIEVEABLE will endeavor to restrict access to the data and files You store or retrieve from Your Account to persons accessing such data and files through use of Your Account or Password. It may also be necessary to access users accounts to verify that the accounts are not being misused, especially with respect to digital copy-right laws and resource misuse checks including bandwidth.\n\n\n11. INDEMNIFICATION\nUser agrees to indemnify and CRUMBELIEVEABLE, contractors, suppliers and its and their employees, harmless from and against any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of User's use of the Service, the violation of these Terms by User, or the infringement by User, or other user of the Service using User's computer, of any intellectual property or other right of any person or entity.\n\n12. ACCOUNT SUSPENSION:\nAccount suspension will occur if the user fails to provide a valid credit card for transactions. If the user fails to provide valid credit card information within a month of suspension, the account and the entire data stored in the quota for the user will be terminated. However, if the succeeds to provide the information the account will be completely recovered.\n\n13. TERMINATION\nThe User may terminate the Service with or without cause at any time and effective immediately. Should User object to any terms and conditions of the Terms or any subsequent modifications thereto or become dissatisfied with the Service in any way, User's only recourse is to immediately: (1) discontinue use of the Service; (2) terminate Service Membership; and (3) noCRUMBELIEVEABLE of termination. Upon termination of the Service, User's right to use the Service and Software immediately ceases. User shall have no rightCRUMBELIEVEABLE will have no obligation thereafter to continue to store User’s data or information or to forward any unread or unsent messages to User or any third paCRUMBELIEVEABLE will terminate accounts in two cases (1) after a month of account suspension. (2) Misuse suspicion. In either case, the user is notified of the action via an email CRUMBELIEVEABLE.\n\n14. NOTICE\nAll notices to a party shall be in writing and shall be made either via email or conventional mCRUMBELIEVEABLE may broadcast notices or messages through the Service to inform User of changes to the Terms, the Service, or other matters of importance; such broadcasts shall constitute notice to User.\n\n15. PROPRIETARY RIGHTS TO CONTENT\nUser acknowledges that content, including but not limited to text, software, music, sound, photographs, video, graphics or other material contained in either sponsor advertisements or email-distributed, commercially produced information presented to User by the Service (\"Content\"CRUMBELIEVEABLE or Wondersoft's Advertisers (“Advertiser”), is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws; therefore, User is only permitted to use this Content as expressly authorized by the Service or the Advertiser. User may not copy, reproduce, distribute, or create derivative works from this Content without expressly being authorized to do so by the Service or the Advertiser.\n "; ObjectID = "C1w-ZU-XGA"; */
+"C1w-ZU-XGA.text" = " 1. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS OF SERVICE\nTHIS IS A LEGAL AGREEMENT BETWEEN YOU (\"USER\" OR \"YOU\") AND CRUMBELIEVEABLE INC (\"Crumbelieveable\"). BY COMPLETING THE REGISTRATION PROCESS, YOU ARE INDICATING YOUR AGREEMENT TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. The Online Service (\"Service\") is provided to you (\"User\") under the following Crumbelieveable terms (\"Terms\"). The Terms comprise the entire agreement between User and CRUMBELIEVEABLE and supersede all prior agreements between the parties regarding the subject matter contained herein.\n\n\n2. DESCRIPTION OF SERCRUMBELIEVEABLE is providing User with a capability to create and convert PDF files. User must: (1) provide all equipment and communications services, including a computer and modem, necessary to establish a connection to the World Wide Web and (2) provide for own access to the World Wide Web and pay any connection and service fees associated with such access. In consideration for this Service, User agrees to: (1) provide certain current, complete, and accurate information about User as prompted to do so by the Service and (2) maintain and update this information as required to keep it current, complete and accurate. All information requested on original sign up shall be referred to as registration Information (\"Registration InformatioCRUMBELIEVEABLE will maintain Registration Information in accordance with these Terms and then current PDF Copy Paste privacy policy, available at http://www.pdfcopypaste.com/privacy.html. Should there be any conflict between these Terms and Wondersoft's privacy policy, these Terms shall supersede the privacy policy. You authorize a recurring monthly or annual charge to your credit card in exchange for use ofCRUMBELIEVEABLE service as indicated by published standard plans or a customized quote provided for your specific use. You also agree that the enrollment for the next service period is automatic. Please note that refunds on a pro-rated basis are issued only for yearly plans. When yearly subscriptions are cancelled before the subscriptions end, refunds are issued based on a pro-rated calculation of the subscription charges at the monthly rate for the plan, for the actual number of months the account was subscribed (the number of months between the most recent yearly charges and the cancellation date). If the calculated refund amount exceeds the yearly subscription rate, then no refund is issuCRUMBELIEVEABLE will not issue any pro-rated refunds for the remaining period during the month when an account with a monthly subscription plan (\"current plan\") is downgraded to a smaller plan (\"new plan\") (a plan that costs less per month than the current plan) during the middle of a month. However the rate applicable to the new plan will automatically be charged starting the first of the subsequent month, and you must contact sales@pdfcopypaste.com in order to downgrade. If you attempt to sign up for a downgraded account via the online system, it will be considers as a new account and therefore you will be charged for both accounts until you cancel your old subscription.\n\n\n\n3. CONDITIONS OF USE\nYou are solely responsible for the content of all data You store or retrieve from, or attempt to store or retrieve from, Your Account. Your use of the Service is subject to all applicable local, state, national and international laws and regulations. You will: (a) not use the Service for any illegal purposes; (b) not use the Service to store, retrieve, transmit or view any file, data, image or program that contains: (i) any illegal pictures, materials or information; (ii) any harassing, libelous, abusive, threatening, harmful, vulgar, pornographic, obscene or otherwise objectionable material of any kind or nature; (iii) any material that encourages conduct that could constitute a criminal offense, give rise to civil liability or otherwise violate any applicable local, state, national or international law or regulation; (iv) any code or material that violates the intellectual property rights of others; (v) any Windows temporary files of any kind (including, without limitation, any *.p or ~*.* files); or (vi) any viruses, worms, \"Trojan horses\" or any other similar contaminating or destructive features; (c) comply with United States and other applicable law regarding the exportation and re-exportation of any data or other materials from the United States or other jurisdictions through the Service; (d) not use the Service for any spamming, chain letters or other use that may otherwise disrupt the Service or the networks through which You access and use the Service; (e) comply with all regulations, policies and procedures of networks through which You access and use the Service; and (f) not access or attempt to access any Service account for which You have no access authorization or duplicate, modify, distribute or display any of the data or files from any such account.CRUMBELIEVEABLE PDF creation service should not be used to sell digital content to others. It is not a media for dissemination of digital content for commercial purposes. WE WILL NOT APPROACH YOUR DATA BUT IF WE SUSPECT ILLEGAL ACTIVITY WE WILL NOTIFY YOU FOR ACCOUNT TERMINATION\n\n4. MODIFICATIONS TO SERCRUMBELIEVEABLE reserves the right to modify or discontinue the Service with or without notice to UCRUMBELIEVEABLE shall not be liable to User or any third party shCRUMBELIEVEABLE exercise its right to modify or discontinue the Service.\n\n5. AUTOMATIC CONVERSION OF TRIAL TO PAID ACCOCRUMBELIEVEABLE may offer trial accounts that require users to provide credit card information which may be used to convert the trial to a paid account at the end of free trial period. If the card transaction fails at the end of free trial period, an email would be sent to the user requesting the user to upgrade the account manually online. In such a case, if the user fails to upgrade to a paid account within three business days, account will be suspended.\n\n6. USER ACCOUNT, PASSWORD, AND SECURITY\nOnce you become a User of the Service, you shall receive a password and an account. You are entirely responsible if you do not maintain the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities which occur under your account. You may change your password at any time by following instructions which we provide to you through our on line support. You agree to immediately noCRUMBELIEVEABLE of any unauthorized use of your account or any other breach of security of which you become aware.\n\n7. DISCLAIMER OF WARRANTIES\nUSER EXPRESSLY AGREES THAT USE OF THE SERVICE IS AT USER'S SOLE RISK. ALTHCRUMBELIEVEABLE WILL ATTEMPT TO PROVIDE UNINTERRUPTED, TIMELY, AND SECURE SERVICRUMBELIEVEABLE MAKES NO REPRESENTATION THAT IT WILL BE ABLE TO DO SO. THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BACRUMBELIEVEABLE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMCRUMBELIEVEABLE MAKES NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, OR THAT THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR FREE. USER UNDERSTANDS AND AGREES THAT ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT USER'S OWN DISCRETION AND RISK AND THAT USER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO USER'S COMPUTER \\ SYSTEM OR LOSS OF DATA OR UNAUTHORIZED DISCLOSURE OF DATA THAT RESULTS FROM THE UPLOAD, DOWNLOAD OR STORAGE OF SUCH MATERIAL AND/OR DCRUMBELIEVEABLE MAKES NO WARRANTY REGARDING ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH THE SERVICE OR ANY TRANSACTIONS ENTERED INTO THROUGH THE SERVICE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY USER CRUMBELIEVEABLE OR THROUGH THE SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.\n\n8. LIMITATIONS OF LIABILITY\nIN NO EVENT SCRUMBELIEVEABLE OR ITS ADVERTISERS OR SUPPLIERS HAVE ANY OBLIGATION OR LIABILITY TO YOU FOR THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES OR DATA OR FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, ANY LOSS OF DATA, REVENUE OR PROFITS OR BUSINESS INTERRUPTION) OR OTHER PECUNIARY LOSS ARISING OUT OF YOUR USE OR INABILITY TO USE YOUR ACCOUNT OR THE SERVICE OR YOUR LOSS OF DATA OR FILES STORED THEREIN.\n\n9. NO RESALE OR COMMERCIAL USE OF THE SERVICE\nUser's right to use the Service is personal to User. User agrees not to resell or make any commercial use of the Service, without the prior express written consenCRUMBELIEVEABLE.\n\n10. SECURITY OF STORED DATA AND FCRUMBELIEVEABLE will endeavor to restrict access to the data and files You store or retrieve from Your Account to persons accessing such data and files through use of Your Account or Password. It may also be necessary to access users accounts to verify that the accounts are not being misused, especially with respect to digital copy-right laws and resource misuse checks including bandwidth.\n\n\n11. INDEMNIFICATION\nUser agrees to indemnify and CRUMBELIEVEABLE, contractors, suppliers and its and their employees, harmless from and against any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of User's use of the Service, the violation of these Terms by User, or the infringement by User, or other user of the Service using User's computer, of any intellectual property or other right of any person or entity.\n\n12. ACCOUNT SUSPENSION:\nAccount suspension will occur if the user fails to provide a valid credit card for transactions. If the user fails to provide valid credit card information within a month of suspension, the account and the entire data stored in the quota for the user will be terminated. However, if the succeeds to provide the information the account will be completely recovered.\n\n13. TERMINATION\nThe User may terminate the Service with or without cause at any time and effective immediately. Should User object to any terms and conditions of the Terms or any subsequent modifications thereto or become dissatisfied with the Service in any way, User's only recourse is to immediately: (1) discontinue use of the Service; (2) terminate Service Membership; and (3) noCRUMBELIEVEABLE of termination. Upon termination of the Service, User's right to use the Service and Software immediately ceases. User shall have no rightCRUMBELIEVEABLE will have no obligation thereafter to continue to store User’s data or information or to forward any unread or unsent messages to User or any third paCRUMBELIEVEABLE will terminate accounts in two cases (1) after a month of account suspension. (2) Misuse suspicion. In either case, the user is notified of the action via an email CRUMBELIEVEABLE.\n\n14. NOTICE\nAll notices to a party shall be in writing and shall be made either via email or conventional mCRUMBELIEVEABLE may broadcast notices or messages through the Service to inform User of changes to the Terms, the Service, or other matters of importance; such broadcasts shall constitute notice to User.\n\n15. PROPRIETARY RIGHTS TO CONTENT\nUser acknowledges that content, including but not limited to text, software, music, sound, photographs, video, graphics or other material contained in either sponsor advertisements or email-distributed, commercially produced information presented to User by the Service (\"Content\"CRUMBELIEVEABLE or Wondersoft's Advertisers (“Advertiser”), is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws; therefore, User is only permitted to use this Content as expressly authorized by the Service or the Advertiser. User may not copy, reproduce, distribute, or create derivative works from this Content without expressly being authorized to do so by the Service or the Advertiser.\n ";
+
+/* Class = "UILabel"; text = "Latte"; ObjectID = "CFa-XO-Vnf"; */
+"CFa-XO-Vnf.text" = "Latte";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "DBI-Qw-n3G"; */
+"DBI-Qw-n3G.text" = "Email:";
+
+/* Class = "UILabel"; text = "Phone Number:"; ObjectID = "DF7-eM-hm4"; */
+"DF7-eM-hm4.text" = "Phone Number:";
+
+/* Class = "UINavigationItem"; title = "Account"; ObjectID = "DGe-dJ-jKI"; */
+"DGe-dJ-jKI.title" = "Account";
+
+/* Class = "UIButton"; configuration.title = "View Rewards"; ObjectID = "DOK-mo-xcq"; */
+"DOK-mo-xcq.configuration.title" = "View Rewards";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DOK-mo-xcq"; */
+"DOK-mo-xcq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "Dh6-cA-BY8"; */
+"Dh6-cA-BY8.text" = "Phone:";
+
+/* Class = "UILabel"; text = "View Item"; ObjectID = "Dtf-m1-PiY"; */
+"Dtf-m1-PiY.text" = "View Item";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "E5A-a9-6Cf"; */
+"E5A-a9-6Cf.title" = "Menu";
+
+/* Class = "UILabel"; text = "800 pts"; ObjectID = "ELf-ka-4tc"; */
+"ELf-ka-4tc.text" = "800 pts";
+
+/* Class = "UILabel"; text = "New Arrival"; ObjectID = "EQu-0e-03p"; */
+"EQu-0e-03p.text" = "New Arrival";
+
+/* Class = "UIButton"; configuration.title = "Info"; ObjectID = "EXI-8N-m0K"; */
+"EXI-8N-m0K.configuration.title" = "Info";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EXI-8N-m0K"; */
+"EXI-8N-m0K.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "16 Oz"; ObjectID = "Eff-BU-VZq"; */
+"Eff-BU-VZq.text" = "16 Oz";
+
+/* Class = "UILabel"; text = "Reward Points"; ObjectID = "Epn-9u-smM"; */
+"Epn-9u-smM.text" = "Reward Points";
+
+/* Class = "UILabel"; text = "Cookie Menu"; ObjectID = "EwB-Pu-nl6"; */
+"EwB-Pu-nl6.text" = "Cookie Menu";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "FWB-yZ-IBV"; */
+"FWB-yZ-IBV.text" = "Personal Information";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "FZu-wJ-pq7"; */
+"FZu-wJ-pq7.text" = "Americano";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Fh4-4O-gOA"; */
+"Fh4-4O-gOA.text" = "Name:";
+
+/* Class = "UILabel"; text = "View Item"; ObjectID = "FkX-lH-Rws"; */
+"FkX-lH-Rws.text" = "View Item";
+
+/* Class = "UIButton"; configuration.title = "Secret Button"; ObjectID = "GJS-c8-jPx"; */
+"GJS-c8-jPx.configuration.title" = "Secret Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GJS-c8-jPx"; */
+"GJS-c8-jPx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "H3W-tb-iEf"; */
+"H3W-tb-iEf.text" = "Name: ";
+
+/* Class = "UILabel"; text = "Birthday:"; ObjectID = "HPA-T1-fSP"; */
+"HPA-T1-fSP.text" = "Birthday:";
+
+/* Class = "UILabel"; text = "See Full Menu"; ObjectID = "HWk-kC-aKX"; */
+"HWk-kC-aKX.text" = "See Full Menu";
+
+/* Class = "UILabel"; text = "Example text description of example seasonal cookie. Doesn't that sound delicious? It sure does."; ObjectID = "Hbl-OP-yJI"; */
+"Hbl-OP-yJI.text" = "Example text description of example seasonal cookie. Doesn't that sound delicious? It sure does.";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "Hf7-M7-tE2"; */
+"Hf7-M7-tE2.text" = "Sign Out";
+
+/* Class = "UILabel"; text = "Phone Number:"; ObjectID = "IGI-1L-VO1"; */
+"IGI-1L-VO1.text" = "Phone Number:";
+
+/* Class = "UIButton"; configuration.title = "Italian"; ObjectID = "IUt-3l-KJF"; */
+"IUt-3l-KJF.configuration.title" = "Italian";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IUt-3l-KJF"; */
+"IUt-3l-KJF.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add Payment"; ObjectID = "Ir4-OT-f3C"; */
+"Ir4-OT-f3C.configuration.title" = "Add Payment";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ir4-OT-f3C"; */
+"Ir4-OT-f3C.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Double Chunk Chocolate Cookie!"; ObjectID = "Ivk-FV-e2s"; */
+"Ivk-FV-e2s.text" = "Double Chunk Chocolate Cookie!";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "JKf-ht-rba"; */
+"JKf-ht-rba.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JKf-ht-rba"; */
+"JKf-ht-rba.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "JiU-7e-TXk"; */
+"JiU-7e-TXk.text" = "Americano";
+
+/* Class = "UIButton"; configuration.title = "Redeem"; ObjectID = "Jzv-Tp-WMR"; */
+"Jzv-Tp-WMR.configuration.title" = "Redeem";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jzv-Tp-WMR"; */
+"Jzv-Tp-WMR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Latte"; ObjectID = "Kd2-AC-ATU"; */
+"Kd2-AC-ATU.text" = "Latte";
+
+/* Class = "UILabel"; text = "Rewards Item 3     Party Bundle"; ObjectID = "Kzf-NU-Z8V"; */
+"Kzf-NU-Z8V.text" = "Rewards Item 3     Party Bundle";
+
+/* Class = "UILabel"; text = "Example text description. Gather your friends for a special treat with our Party Bundle reward. Enjoy a selection of six handcrafted coffees paired with six freshly baked cookies. Choose from our wide range of flavors to tailor the perfect mix for your group."; ObjectID = "N19-BD-hqZ"; */
+"N19-BD-hqZ.text" = "Example text description. Gather your friends for a special treat with our Party Bundle reward. Enjoy a selection of six handcrafted coffees paired with six freshly baked cookies. Choose from our wide range of flavors to tailor the perfect mix for your group.";
+
+/* Class = "UILabel"; text = "Rewards Item 1     A Free Coffee"; ObjectID = "N9h-uj-rOE"; */
+"N9h-uj-rOE.text" = "Rewards Item 1     A Free Coffee";
+
+/* Class = "UIButton"; configuration.title = "Redeem"; ObjectID = "O1a-aj-vDo"; */
+"O1a-aj-vDo.configuration.title" = "Redeem";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O1a-aj-vDo"; */
+"O1a-aj-vDo.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cookies"; ObjectID = "O63-xh-2Ou"; */
+"O63-xh-2Ou.configuration.title" = "Cookies";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O63-xh-2Ou"; */
+"O63-xh-2Ou.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "6 Cookies"; ObjectID = "Q8N-K3-zG3"; */
+"Q8N-K3-zG3.text" = "6 Cookies";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "QN9-mC-ELJ"; */
+"QN9-mC-ELJ.title" = "Account";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "QbF-Oe-m8T"; */
+"QbF-Oe-m8T.text" = "Americano";
+
+/* Class = "UILabel"; text = "EmailAddy"; ObjectID = "Qbv-Xx-uqh"; */
+"Qbv-Xx-uqh.text" = "EmailAddy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R0e-ks-jrT"; */
+"R0e-ks-jrT.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Join                               Rewards"; ObjectID = "RAo-YM-CNL"; */
+"RAo-YM-CNL.text" = "Join                               Rewards";
+
+/* Class = "UILabel"; text = "$5.99"; ObjectID = "S4G-vL-NDv"; */
+"S4G-vL-NDv.text" = "$5.99";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "SAU-jC-chz"; */
+"SAU-jC-chz.text" = "Email:";
+
+/* Class = "UILabel"; text = "Birthday 🎉:"; ObjectID = "SAb-1J-EoE"; */
+"SAb-1J-EoE.text" = "Birthday 🎉:";
+
+/* Class = "UILabel"; text = "Apple Pay  "; ObjectID = "Tdf-je-L1U"; */
+"Tdf-je-L1U.text" = "Apple Pay  ";
+
+/* Class = "UILabel"; text = "Example Top Item"; ObjectID = "TxV-gm-fHC"; */
+"TxV-gm-fHC.text" = "Example Top Item";
+
+/* Class = "UILabel"; text = "Top Picks"; ObjectID = "UDl-cL-HLZ"; */
+"UDl-cL-HLZ.text" = "Top Picks";
+
+/* Class = "UILabel"; text = "Welcome, TestUser2001!"; ObjectID = "UMG-mT-xdf"; */
+"UMG-mT-xdf.text" = "Welcome, TestUser2001!";
+
+/* Class = "UILabel"; text = "Example text description. Collect points with every purchase at our shop. Once you accumulate 50 points, you can redeem them for any beverage of your choice for free. Keep enjoying your coffee and cookies, and watch your points grow!"; ObjectID = "UVd-b3-HgK"; */
+"UVd-b3-HgK.text" = "Example text description. Collect points with every purchase at our shop. Once you accumulate 50 points, you can redeem them for any beverage of your choice for free. Keep enjoying your coffee and cookies, and watch your points grow!";
+
+/* Class = "UILabel"; text = "Flavor of the Month!"; ObjectID = "Ua6-nc-Vc3"; */
+"Ua6-nc-Vc3.text" = "Flavor of the Month!";
+
+/* Class = "UILabel"; text = "Example text description. Taste the magic of our Cinnamon Spice Latte, best enjoyed with our Snickerdoodle Cookie. A delightful combo for a cozy moment. "; ObjectID = "Ufi-27-xxs"; */
+"Ufi-27-xxs.text" = "Example text description. Taste the magic of our Cinnamon Spice Latte, best enjoyed with our Snickerdoodle Cookie. A delightful combo for a cozy moment. ";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "Uo1-uk-SQr"; */
+"Uo1-uk-SQr.text" = "Americano";
+
+/* Class = "UILabel"; text = "Today's Special Has Two Lines of Words"; ObjectID = "VBb-MR-g2r"; */
+"VBb-MR-g2r.text" = "Today's Special Has Two Lines of Words";
+
+/* Class = "UITextField"; text = "4 Cookies"; ObjectID = "VPL-QC-9wo"; */
+"VPL-QC-9wo.text" = "4 Cookies";
+
+/* Class = "UILabel"; text = "Cold Brew"; ObjectID = "VXQ-0X-08w"; */
+"VXQ-0X-08w.text" = "Cold Brew";
+
+/* Class = "UIButton"; configuration.title = "See Full Menu"; ObjectID = "VfZ-wx-qto"; */
+"VfZ-wx-qto.configuration.title" = "See Full Menu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VfZ-wx-qto"; */
+"VfZ-wx-qto.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Flavor of the Month!"; ObjectID = "VmF-rJ-Fbl"; */
+"VmF-rJ-Fbl.text" = "Flavor of the Month!";
+
+/* Class = "UILabel"; text = "Drip Coffee"; ObjectID = "WNL-br-sVG"; */
+"WNL-br-sVG.text" = "Drip Coffee";
+
+/* Class = "UILabel"; text = "$5.99"; ObjectID = "Wdy-0f-xYG"; */
+"Wdy-0f-xYG.text" = "$5.99";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "Whx-G8-Ida"; */
+"Whx-G8-Ida.title" = "Menu";
+
+/* Class = "UILabel"; text = "100 pts"; ObjectID = "Wmg-0E-NHa"; */
+"Wmg-0E-NHa.text" = "100 pts";
+
+/* Class = "UITextField"; text = "12 Cookies"; ObjectID = "X58-5g-tCI"; */
+"X58-5g-tCI.text" = "12 Cookies";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "X8B-e6-PD6"; */
+"X8B-e6-PD6.placeholder" = "Password";
+
+/* Class = "UIButton"; configuration.title = "Redeem"; ObjectID = "XAH-EE-2O8"; */
+"XAH-EE-2O8.configuration.title" = "Redeem";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XAH-EE-2O8"; */
+"XAH-EE-2O8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Birthday:"; ObjectID = "XCa-f4-HZl"; */
+"XCa-f4-HZl.text" = "Birthday:";
+
+/* Class = "UILabel"; text = "Cappucino"; ObjectID = "XJl-2u-AEK"; */
+"XJl-2u-AEK.text" = "Cappucino";
+
+/* Class = "UILabel"; text = "pSureItsOptional"; ObjectID = "XXr-jW-waH"; */
+"XXr-jW-waH.text" = "pSureItsOptional";
+
+/* Class = "UIButton"; configuration.title = "Redeem"; ObjectID = "Xgy-qL-J1A"; */
+"Xgy-qL-J1A.configuration.title" = "Redeem";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xgy-qL-J1A"; */
+"Xgy-qL-J1A.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Terms"; ObjectID = "Xp6-hG-U7c"; */
+"Xp6-hG-U7c.title" = "Terms";
+
+/* Class = "UIButton"; configuration.title = "Join Now"; ObjectID = "Xvh-ae-Xie"; */
+"Xvh-ae-Xie.configuration.title" = "Join Now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xvh-ae-Xie"; */
+"Xvh-ae-Xie.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Card Number: xxxx"; ObjectID = "YWM-Kp-fzV"; */
+"YWM-Kp-fzV.text" = "Card Number: xxxx";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZcQ-8w-7sk"; */
+"ZcQ-8w-7sk.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Back"; ObjectID = "a1J-SN-1hQ"; */
+"a1J-SN-1hQ.configuration.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a1J-SN-1hQ"; */
+"a1J-SN-1hQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "a1m-f7-mOq"; */
+"a1m-f7-mOq.text" = "Username";
+
+/* Class = "UILabel"; text = "View Item"; ObjectID = "aMO-jT-Dhd"; */
+"aMO-jT-Dhd.text" = "View Item";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "aP8-Sd-6Y9"; */
+"aP8-Sd-6Y9.configuration.title" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aP8-Sd-6Y9"; */
+"aP8-Sd-6Y9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Example text description. Enjoy the smoothness of our Vanilla Bean Coffee alongside our Crunchy Peanut Butter Cookie. A sweet and satisfying pairing."; ObjectID = "axW-jf-qzo"; */
+"axW-jf-qzo.text" = "Example text description. Enjoy the smoothness of our Vanilla Bean Coffee alongside our Crunchy Peanut Butter Cookie. A sweet and satisfying pairing.";
+
+/* Class = "UILabel"; text = "$5.99"; ObjectID = "b1h-6f-nuT"; */
+"b1h-6f-nuT.text" = "$5.99";
+
+/* Class = "UILabel"; text = "Cappucino"; ObjectID = "bED-VB-gdg"; */
+"bED-VB-gdg.text" = "Cappucino";
+
+/* Class = "UILabel"; text = "What's New"; ObjectID = "dYT-ne-25S"; */
+"dYT-ne-25S.text" = "What's New";
+
+/* Class = "UILabel"; text = "No orders placed! Click the button below to place an order!"; ObjectID = "djP-L2-Mxz"; */
+"djP-L2-Mxz.text" = "No orders placed! Click the button below to place an order!";
+
+/* Class = "UIButton"; configuration.title = "View Order History"; ObjectID = "eFc-ve-A0c"; */
+"eFc-ve-A0c.configuration.title" = "View Order History";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eFc-ve-A0c"; */
+"eFc-ve-A0c.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "eIF-5g-FAb"; */
+"eIF-5g-FAb.text" = "Americano";
+
+/* Class = "UILabel"; text = "M T W R F Sa Su"; ObjectID = "euy-4f-pQM"; */
+"euy-4f-pQM.text" = "M T W R F Sa Su";
+
+/* Class = "UILabel"; text = "Rewards Item 2     Cookies for Two"; ObjectID = "ewY-Hn-RvI"; */
+"ewY-Hn-RvI.text" = "Rewards Item 2     Cookies for Two";
+
+/* Class = "UILabel"; text = "Store Info"; ObjectID = "glf-yJ-NWW"; */
+"glf-yJ-NWW.text" = "Store Info";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "grl-d8-jgw"; */
+"grl-d8-jgw.placeholder" = "Username";
+
+/* Class = "UINavigationItem"; title = "Rewards"; ObjectID = "hLt-ez-Epl"; */
+"hLt-ez-Epl.title" = "Rewards";
+
+/* Class = "UILabel"; text = "Cold Brew"; ObjectID = "hpd-p4-9Za"; */
+"hpd-p4-9Za.text" = "Cold Brew";
+
+/* Class = "UILabel"; text = "Welcome, User!"; ObjectID = "hw4-bc-vBB"; */
+"hw4-bc-vBB.text" = "Welcome, User!";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "iaV-hZ-Hs5"; */
+"iaV-hZ-Hs5.text" = "Sign In";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "ihs-RZ-wEh"; */
+"ihs-RZ-wEh.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ihs-RZ-wEh"; */
+"ihs-RZ-wEh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Example Top Item"; ObjectID = "iur-Rs-GzC"; */
+"iur-Rs-GzC.text" = "Example Top Item";
+
+/* Class = "UIButton"; configuration.title = "Place Order"; ObjectID = "jYt-Q5-vao"; */
+"jYt-Q5-vao.configuration.title" = "Place Order";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jYt-Q5-vao"; */
+"jYt-Q5-vao.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Update Personal Information"; ObjectID = "jgO-oC-qBY"; */
+"jgO-oC-qBY.configuration.title" = "Update Personal Information";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jgO-oC-qBY"; */
+"jgO-oC-qBY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Order Now"; ObjectID = "kZ2-mE-XYd"; */
+"kZ2-mE-XYd.configuration.title" = "Order Now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kZ2-mE-XYd"; */
+"kZ2-mE-XYd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$5.99"; ObjectID = "lC6-oD-osY"; */
+"lC6-oD-osY.text" = "$5.99";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "lFO-tA-FYb"; */
+"lFO-tA-FYb.text" = "SMS";
+
+/* Class = "UILabel"; text = "$5.99"; ObjectID = "lkc-2P-QD0"; */
+"lkc-2P-QD0.text" = "$5.99";
+
+/* Class = "UINavigationItem"; title = "Order"; ObjectID = "mak-gy-T7C"; */
+"mak-gy-T7C.title" = "Order";
+
+/* Class = "UINavigationItem"; title = "Menu"; ObjectID = "mpL-Am-9zt"; */
+"mpL-Am-9zt.title" = "Menu";
+
+/* Class = "UIButton"; configuration.title = "Save Changes"; ObjectID = "nQW-VM-3sM"; */
+"nQW-VM-3sM.configuration.title" = "Save Changes";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nQW-VM-3sM"; */
+"nQW-VM-3sM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Example Top Item"; ObjectID = "neY-Hx-ggk"; */
+"neY-Hx-ggk.text" = "Example Top Item";
+
+/* Class = "UILabel"; text = "Drip Coffee"; ObjectID = "opP-Qk-VS3"; */
+"opP-Qk-VS3.text" = "Drip Coffee";
+
+/* Class = "UILabel"; text = "Join now to earn points, enjoy exclusive offers, and view your order history."; ObjectID = "p7N-ng-tnV"; */
+"p7N-ng-tnV.text" = "Join now to earn points, enjoy exclusive offers, and view your order history.";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "q40-5A-oej"; */
+"q40-5A-oej.text" = "Americano";
+
+/* Class = "UILabel"; text = "Double Chunk Chocolate Cookie!"; ObjectID = "qQQ-5l-fFy"; */
+"qQQ-5l-fFy.text" = "Double Chunk Chocolate Cookie!";
+
+/* Class = "UILabel"; text = "Example Top Item"; ObjectID = "qct-UI-TxS"; */
+"qct-UI-TxS.text" = "Example Top Item";
+
+/* Class = "UILabel"; text = "0             25             50             75          100"; ObjectID = "qzh-sZ-Tk1"; */
+"qzh-sZ-Tk1.text" = "0             25             50             75          100";
+
+/* Class = "UIButton"; configuration.title = "Notification Preferences"; ObjectID = "sCp-UL-YPq"; */
+"sCp-UL-YPq.configuration.title" = "Notification Preferences";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sCp-UL-YPq"; */
+"sCp-UL-YPq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "User:"; ObjectID = "sbl-bd-9ju"; */
+"sbl-bd-9ju.text" = "User:";
+
+/* Class = "UILabel"; text = "Example text description. Discover our Mocha Bliss, a rich coffee treat. Pair it with our Soft Oatmeal Raisin Cookie for a comforting snack."; ObjectID = "sz5-oE-UXY"; */
+"sz5-oE-UXY.text" = "Example text description. Discover our Mocha Bliss, a rich coffee treat. Pair it with our Soft Oatmeal Raisin Cookie for a comforting snack.";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "tuL-NX-upJ"; */
+"tuL-NX-upJ.title" = "Sign In";
+
+/* Class = "UILabel"; text = "|                 |                 |                 |                 |"; ObjectID = "uA0-hM-PKX"; */
+"uA0-hM-PKX.text" = "|                 |                 |                 |                 |";
+
+/* Class = "UIButton"; configuration.title = "Coffee"; ObjectID = "uI9-pc-FJ5"; */
+"uI9-pc-FJ5.configuration.title" = "Coffee";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uI9-pc-FJ5"; */
+"uI9-pc-FJ5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coffee Menu"; ObjectID = "uMH-IL-yQt"; */
+"uMH-IL-yQt.text" = "Coffee Menu";
+
+/* Class = "UILabel"; text = "0000 Address St., Ferndale, MI, 00000"; ObjectID = "uVV-ys-giG"; */
+"uVV-ys-giG.text" = "0000 Address St., Ferndale, MI, 00000";
+
+/* Class = "UILabel"; text = "Card Number: xxxx"; ObjectID = "ubL-qj-CT6"; */
+"ubL-qj-CT6.text" = "Card Number: xxxx";
+
+/* Class = "UILabel"; text = "Available Points"; ObjectID = "udQ-bL-ERh"; */
+"udQ-bL-ERh.text" = "Available Points";
+
+/* Class = "UILabel"; text = "View Item"; ObjectID = "ufD-g9-KOW"; */
+"ufD-g9-KOW.text" = "View Item";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "vyT-nZ-lHE"; */
+"vyT-nZ-lHE.text" = "Email:";
+
+/* Class = "UILabel"; text = "8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM Closed "; ObjectID = "wNV-KY-DGZ"; */
+"wNV-KY-DGZ.text" = "8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM 8:00 AM - 12:00 PM Closed ";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "xI0-9e-eYo"; */
+"xI0-9e-eYo.title" = "Home";
+
+/* Class = "UIButton"; configuration.title = "Order Now"; ObjectID = "y1y-dy-2zt"; */
+"y1y-dy-2zt.configuration.title" = "Order Now";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y1y-dy-2zt"; */
+"y1y-dy-2zt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "(XXX) XXX - XXXX"; ObjectID = "y73-48-qc4"; */
+"y73-48-qc4.text" = "(XXX) XXX - XXXX";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yOM-YC-gHa"; */
+"yOM-YC-gHa.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Menu"; ObjectID = "yOw-nC-UTO"; */
+"yOw-nC-UTO.title" = "Menu";
+
+/* Class = "UILabel"; text = "Americano"; ObjectID = "z0a-c8-Fuu"; */
+"z0a-c8-Fuu.text" = "Americano";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zYF-dZ-Lrv"; */
+"zYF-dZ-Lrv.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Rewards"; ObjectID = "zic-us-J0o"; */
+"zic-us-J0o.title" = "Rewards";
+
+/* Class = "UILabel"; text = "Limited Time Offer"; ObjectID = "zqf-3Z-psl"; */
+"zqf-3Z-psl.text" = "Limited Time Offer";

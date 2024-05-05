@@ -1,0 +1,812 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		242B49552B859C21009C7662 /* SignInController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242B49542B859C21009C7662 /* SignInController.swift */; };
+		242B49572B859D40009C7662 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 242B49562B859D40009C7662 /* CollectionViewController.swift */; };
+		24691A912B86BD9500730565 /* crumb-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 24691A902B86BD9500730565 /* crumb-logo.png */; };
+		24691A942B88049F00730565 /* CellsClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24691A922B88049F00730565 /* CellsClass.swift */; };
+		24691A952B88049F00730565 /* CellsClass.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24691A932B88049F00730565 /* CellsClass.xib */; };
+		247778632BD1BA9F003EC651 /* Frames in Frameworks */ = {isa = PBXBuildFile; productRef = 247778622BD1BA9F003EC651 /* Frames */; };
+		247778672BD1BBDA003EC651 /* CustomizationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247778662BD1BBDA003EC651 /* CustomizationController.swift */; };
+		2477786D2BD1C0D4003EC651 /* ShowMeTheMoney.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2477786C2BD1C0D4003EC651 /* ShowMeTheMoney.swift */; };
+		247DD1C02BBE026000871F50 /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = 247DD1BF2BBE026000871F50 /* GoogleSignIn */; };
+		247DD1C22BBE026000871F50 /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 247DD1C12BBE026000871F50 /* GoogleSignInSwift */; };
+		247DD1C42BBE028200871F50 /* credentials.plist in Resources */ = {isa = PBXBuildFile; fileRef = 247DD1C32BBE028200871F50 /* credentials.plist */; };
+		2482787D2BB60E5A00772802 /* sideviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2482787C2BB60E5A00772802 /* sideviewViewController.swift */; };
+		248278802BB60EBC00772802 /* cell2Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2482787E2BB60EBC00772802 /* cell2Class.swift */; };
+		248278812BB60EBC00772802 /* cell2Class.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2482787F2BB60EBC00772802 /* cell2Class.xib */; };
+		248F47012BAA4D8100B02627 /* SystemPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 248F47002BAA4D8100B02627 /* SystemPackage */; };
+		306562882BC5F3EC00D51B62 /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = 306562612BC5F3EC00D51B62 /* iCarousel.m */; };
+		306562892BC5F3EC00D51B62 /* LICENCE.md in Resources */ = {isa = PBXBuildFile; fileRef = 306562632BC5F3EC00D51B62 /* LICENCE.md */; };
+		3065628A2BC5F3EC00D51B62 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 306562642BC5F3EC00D51B62 /* README.md */; };
+		3065628C2BC5F3EC00D51B62 /* iCarousel-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 306562672BC5F3EC00D51B62 /* iCarousel-Info.plist */; };
+		3065628D2BC5F3EC00D51B62 /* iCarousel.debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3065626A2BC5F3EC00D51B62 /* iCarousel.debug.xcconfig */; };
+		3065628E2BC5F3EC00D51B62 /* iCarousel.release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3065626C2BC5F3EC00D51B62 /* iCarousel.release.xcconfig */; };
+		3065628F2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 3065626E2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.markdown */; };
+		306562902BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3065626F2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.plist */; };
+		306562912BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 306562702BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-dummy.m */; };
+		306562922BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-input-files.xcfilelist in Resources */ = {isa = PBXBuildFile; fileRef = 306562712BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-input-files.xcfilelist */; };
+		306562932BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-output-files.xcfilelist in Resources */ = {isa = PBXBuildFile; fileRef = 306562722BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-output-files.xcfilelist */; };
+		306562942BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-input-files.xcfilelist in Resources */ = {isa = PBXBuildFile; fileRef = 306562732BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-input-files.xcfilelist */; };
+		306562952BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-output-files.xcfilelist in Resources */ = {isa = PBXBuildFile; fileRef = 306562742BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-output-files.xcfilelist */; };
+		306562962BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks.sh in Resources */ = {isa = PBXBuildFile; fileRef = 306562752BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks.sh */; };
+		306562972BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 306562762BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-Info.plist */; };
+		306562982BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 306562782BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.debug.xcconfig */; };
+		306562992BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3065627A2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.release.xcconfig */; };
+		3065629A2BC5F3EC00D51B62 /* Manifest.lock in Resources */ = {isa = PBXBuildFile; fileRef = 3065627D2BC5F3EC00D51B62 /* Manifest.lock */; };
+		4309A0E62B76E7EB002B92BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0E52B76E7EB002B92BC /* AppDelegate.swift */; };
+		4309A0E82B76E7EB002B92BC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0E72B76E7EB002B92BC /* SceneDelegate.swift */; };
+		4309A0EA2B76E7EB002B92BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0E92B76E7EB002B92BC /* ViewController.swift */; };
+		4309A0ED2B76E7EB002B92BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4309A0EB2B76E7EB002B92BC /* Main.storyboard */; };
+		4309A0EF2B76E7EE002B92BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4309A0EE2B76E7EE002B92BC /* Assets.xcassets */; };
+		4309A0F22B76E7EE002B92BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4309A0F02B76E7EE002B92BC /* LaunchScreen.storyboard */; };
+		4309A0FA2B7D698C002B92BC /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0F92B7D698C002B92BC /* MenuViewController.swift */; };
+		4309A0FC2B7D6A68002B92BC /* OrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0FB2B7D6A68002B92BC /* OrderViewController.swift */; };
+		4309A0FE2B7D6A7B002B92BC /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0FD2B7D6A7B002B92BC /* AccountViewController.swift */; };
+		4309A1002B7D6A8F002B92BC /* RewardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4309A0FF2B7D6A8F002B92BC /* RewardsViewController.swift */; };
+		431BEC242BD76427008914B1 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 431BEC232BD76427008914B1 /* TabBarViewController.swift */; };
+		4335E1C62BDF4CAC00F3DAC0 /* ItalianViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4335E1C52BDF4CAC00F3DAC0 /* ItalianViewController.swift */; };
+		43710B262B8D253400BE3C14 /* settingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43710B252B8D253400BE3C14 /* settingsViewController.swift */; };
+		43A114AA2BCDC0CE00675E83 /* Carousel3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A114A92BCDC0CE00675E83 /* Carousel3ViewController.swift */; };
+		43E41FA92BC0A9B5008C6193 /* Carousel1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E41FA82BC0A9B5008C6193 /* Carousel1ViewController.swift */; };
+		43E41FAB2BC0A9C3008C6193 /* Carousel2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E41FAA2BC0A9C3008C6193 /* Carousel2ViewController.swift */; };
+		43E41FAD2BC34117008C6193 /* PaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E41FAC2BC34117008C6193 /* PaymentViewController.swift */; };
+		43E41FB22BC3491C008C6193 /* apiFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E41FB12BC3491C008C6193 /* apiFile.swift */; };
+		43E8102C2BDD52660003A899 /* TermsAndConditionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E8102B2BDD52660003A899 /* TermsAndConditionsViewController.swift */; };
+		43E810302BDD52B70003A899 /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E8102F2BDD52B70003A899 /* HistoryViewController.swift */; };
+		43E810322BDD53040003A899 /* CardHistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E810312BDD53040003A899 /* CardHistoryViewController.swift */; };
+		43E810342BDD53420003A899 /* NotisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E810332BDD53420003A899 /* NotisViewController.swift */; };
+		43E810372BDD53810003A899 /* ChangeInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E810362BDD53810003A899 /* ChangeInfoViewController.swift */; };
+		CC78E82E586D2A51AEE87133 /* Pods_Crumbelievable_Mobile_App.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC67C2EF3984E16301A011F0 /* Pods_Crumbelievable_Mobile_App.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		306562842BC5F3EC00D51B62 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3065627E2BC5F3EC00D51B62 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C8217EB109A6A34051F09192C29B676F;
+			remoteInfo = iCarousel;
+		};
+		306562862BC5F3EC00D51B62 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3065627E2BC5F3EC00D51B62 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 3C1E1137FF2B19ABA5E61B0AA846D612;
+			remoteInfo = "Pods-Crumbelievable Mobile App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0C033DC22D15CECF3CB58295 /* Pods-Crumbelievable Mobile App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Crumbelievable Mobile App.release.xcconfig"; path = "Target Support Files/Pods-Crumbelievable Mobile App/Pods-Crumbelievable Mobile App.release.xcconfig"; sourceTree = "<group>"; };
+		242B49542B859C21009C7662 /* SignInController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInController.swift; sourceTree = "<group>"; };
+		242B49562B859D40009C7662 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		24691A902B86BD9500730565 /* crumb-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crumb-logo.png"; sourceTree = "<group>"; };
+		24691A922B88049F00730565 /* CellsClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellsClass.swift; sourceTree = "<group>"; };
+		24691A932B88049F00730565 /* CellsClass.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellsClass.xib; sourceTree = "<group>"; };
+		247778662BD1BBDA003EC651 /* CustomizationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizationController.swift; sourceTree = "<group>"; };
+		2477786C2BD1C0D4003EC651 /* ShowMeTheMoney.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowMeTheMoney.swift; sourceTree = "<group>"; };
+		247DD1C32BBE028200871F50 /* credentials.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = credentials.plist; sourceTree = "<group>"; };
+		2482787C2BB60E5A00772802 /* sideviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sideviewViewController.swift; sourceTree = "<group>"; };
+		2482787E2BB60EBC00772802 /* cell2Class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cell2Class.swift; sourceTree = "<group>"; };
+		2482787F2BB60EBC00772802 /* cell2Class.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = cell2Class.xib; sourceTree = "<group>"; };
+		306562602BC5F3EC00D51B62 /* iCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
+		306562612BC5F3EC00D51B62 /* iCarousel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCarousel.m; sourceTree = "<group>"; };
+		306562632BC5F3EC00D51B62 /* LICENCE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENCE.md; sourceTree = "<group>"; };
+		306562642BC5F3EC00D51B62 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		306562662BC5F3EC00D51B62 /* iCarousel-dummy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "iCarousel-dummy.m"; sourceTree = "<group>"; };
+		306562672BC5F3EC00D51B62 /* iCarousel-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iCarousel-Info.plist"; sourceTree = "<group>"; };
+		306562682BC5F3EC00D51B62 /* iCarousel-prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "iCarousel-prefix.pch"; sourceTree = "<group>"; };
+		306562692BC5F3EC00D51B62 /* iCarousel-umbrella.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "iCarousel-umbrella.h"; sourceTree = "<group>"; };
+		3065626A2BC5F3EC00D51B62 /* iCarousel.debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = iCarousel.debug.xcconfig; sourceTree = "<group>"; };
+		3065626B2BC5F3EC00D51B62 /* iCarousel.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = iCarousel.modulemap; sourceTree = "<group>"; };
+		3065626C2BC5F3EC00D51B62 /* iCarousel.release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = iCarousel.release.xcconfig; sourceTree = "<group>"; };
+		3065626E2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "Pods-Crumbelievable Mobile App-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3065626F2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pods-Crumbelievable Mobile App-acknowledgements.plist"; sourceTree = "<group>"; };
+		306562702BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-dummy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Pods-Crumbelievable Mobile App-dummy.m"; sourceTree = "<group>"; };
+		306562712BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-input-files.xcfilelist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcfilelist; path = "Pods-Crumbelievable Mobile App-frameworks-Debug-input-files.xcfilelist"; sourceTree = "<group>"; };
+		306562722BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-output-files.xcfilelist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcfilelist; path = "Pods-Crumbelievable Mobile App-frameworks-Debug-output-files.xcfilelist"; sourceTree = "<group>"; };
+		306562732BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-input-files.xcfilelist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcfilelist; path = "Pods-Crumbelievable Mobile App-frameworks-Release-input-files.xcfilelist"; sourceTree = "<group>"; };
+		306562742BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-output-files.xcfilelist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcfilelist; path = "Pods-Crumbelievable Mobile App-frameworks-Release-output-files.xcfilelist"; sourceTree = "<group>"; };
+		306562752BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "Pods-Crumbelievable Mobile App-frameworks.sh"; sourceTree = "<group>"; };
+		306562762BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pods-Crumbelievable Mobile App-Info.plist"; sourceTree = "<group>"; };
+		306562772BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-umbrella.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Pods-Crumbelievable Mobile App-umbrella.h"; sourceTree = "<group>"; };
+		306562782BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Pods-Crumbelievable Mobile App.debug.xcconfig"; sourceTree = "<group>"; };
+		306562792BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Crumbelievable Mobile App.modulemap"; sourceTree = "<group>"; };
+		3065627A2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "Pods-Crumbelievable Mobile App.release.xcconfig"; sourceTree = "<group>"; };
+		3065627D2BC5F3EC00D51B62 /* Manifest.lock */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Manifest.lock; sourceTree = "<group>"; };
+		3065627E2BC5F3EC00D51B62 /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Pods.xcodeproj; sourceTree = "<group>"; };
+		4309A0E22B76E7EB002B92BC /* Crumbelievable Mobile App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Crumbelievable Mobile App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4309A0E52B76E7EB002B92BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4309A0E72B76E7EB002B92BC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4309A0E92B76E7EB002B92BC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4309A0EC2B76E7EB002B92BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4309A0EE2B76E7EE002B92BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4309A0F12B76E7EE002B92BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4309A0F32B76E7EE002B92BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4309A0F92B7D698C002B92BC /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		4309A0FB2B7D6A68002B92BC /* OrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewController.swift; sourceTree = "<group>"; };
+		4309A0FD2B7D6A7B002B92BC /* AccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
+		4309A0FF2B7D6A8F002B92BC /* RewardsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RewardsViewController.swift; sourceTree = "<group>"; };
+		431BEC232BD76427008914B1 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		4335E1C52BDF4CAC00F3DAC0 /* ItalianViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItalianViewController.swift; sourceTree = "<group>"; };
+		4335E1CA2BDF503B00F3DAC0 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
+		4335E1CD2BDF503B00F3DAC0 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		43710B252B8D253400BE3C14 /* settingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settingsViewController.swift; sourceTree = "<group>"; };
+		43A114A92BCDC0CE00675E83 /* Carousel3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carousel3ViewController.swift; sourceTree = "<group>"; };
+		43E41FA82BC0A9B5008C6193 /* Carousel1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carousel1ViewController.swift; sourceTree = "<group>"; };
+		43E41FAA2BC0A9C3008C6193 /* Carousel2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carousel2ViewController.swift; sourceTree = "<group>"; };
+		43E41FAC2BC34117008C6193 /* PaymentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentViewController.swift; sourceTree = "<group>"; };
+		43E41FB12BC3491C008C6193 /* apiFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = apiFile.swift; sourceTree = "<group>"; };
+		43E8102B2BDD52660003A899 /* TermsAndConditionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsAndConditionsViewController.swift; sourceTree = "<group>"; };
+		43E8102F2BDD52B70003A899 /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
+		43E810312BDD53040003A899 /* CardHistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardHistoryViewController.swift; sourceTree = "<group>"; };
+		43E810332BDD53420003A899 /* NotisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotisViewController.swift; sourceTree = "<group>"; };
+		43E810362BDD53810003A899 /* ChangeInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeInfoViewController.swift; sourceTree = "<group>"; };
+		6434CC3E5DA13C034A699113 /* Pods-Crumbelievable Mobile App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Crumbelievable Mobile App.debug.xcconfig"; path = "Target Support Files/Pods-Crumbelievable Mobile App/Pods-Crumbelievable Mobile App.debug.xcconfig"; sourceTree = "<group>"; };
+		AC67C2EF3984E16301A011F0 /* Pods_Crumbelievable_Mobile_App.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Crumbelievable_Mobile_App.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4309A0DF2B76E7EB002B92BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				247778632BD1BA9F003EC651 /* Frames in Frameworks */,
+				247DD1C22BBE026000871F50 /* GoogleSignInSwift in Frameworks */,
+				248F47012BAA4D8100B02627 /* SystemPackage in Frameworks */,
+				247DD1C02BBE026000871F50 /* GoogleSignIn in Frameworks */,
+				CC78E82E586D2A51AEE87133 /* Pods_Crumbelievable_Mobile_App.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		306562622BC5F3EC00D51B62 /* iCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				306562602BC5F3EC00D51B62 /* iCarousel.h */,
+				306562612BC5F3EC00D51B62 /* iCarousel.m */,
+			);
+			path = iCarousel;
+			sourceTree = "<group>";
+		};
+		306562652BC5F3EC00D51B62 /* iCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				306562622BC5F3EC00D51B62 /* iCarousel */,
+				306562632BC5F3EC00D51B62 /* LICENCE.md */,
+				306562642BC5F3EC00D51B62 /* README.md */,
+			);
+			path = iCarousel;
+			sourceTree = "<group>";
+		};
+		3065626D2BC5F3EC00D51B62 /* iCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				306562662BC5F3EC00D51B62 /* iCarousel-dummy.m */,
+				306562672BC5F3EC00D51B62 /* iCarousel-Info.plist */,
+				306562682BC5F3EC00D51B62 /* iCarousel-prefix.pch */,
+				306562692BC5F3EC00D51B62 /* iCarousel-umbrella.h */,
+				3065626A2BC5F3EC00D51B62 /* iCarousel.debug.xcconfig */,
+				3065626B2BC5F3EC00D51B62 /* iCarousel.modulemap */,
+				3065626C2BC5F3EC00D51B62 /* iCarousel.release.xcconfig */,
+			);
+			path = iCarousel;
+			sourceTree = "<group>";
+		};
+		3065627B2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App */ = {
+			isa = PBXGroup;
+			children = (
+				3065626E2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.markdown */,
+				3065626F2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.plist */,
+				306562702BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-dummy.m */,
+				306562712BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-input-files.xcfilelist */,
+				306562722BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-output-files.xcfilelist */,
+				306562732BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-input-files.xcfilelist */,
+				306562742BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-output-files.xcfilelist */,
+				306562752BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks.sh */,
+				306562762BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-Info.plist */,
+				306562772BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-umbrella.h */,
+				306562782BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.debug.xcconfig */,
+				306562792BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.modulemap */,
+				3065627A2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.release.xcconfig */,
+			);
+			path = "Pods-Crumbelievable Mobile App";
+			sourceTree = "<group>";
+		};
+		3065627C2BC5F3EC00D51B62 /* Target Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				3065626D2BC5F3EC00D51B62 /* iCarousel */,
+				3065627B2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App */,
+			);
+			path = "Target Support Files";
+			sourceTree = "<group>";
+		};
+		3065627F2BC5F3EC00D51B62 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				306562652BC5F3EC00D51B62 /* iCarousel */,
+				3065627C2BC5F3EC00D51B62 /* Target Support Files */,
+				3065627D2BC5F3EC00D51B62 /* Manifest.lock */,
+				3065627E2BC5F3EC00D51B62 /* Pods.xcodeproj */,
+			);
+			path = Pods;
+			sourceTree = SOURCE_ROOT;
+		};
+		306562802BC5F3EC00D51B62 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				306562852BC5F3EC00D51B62 /* iCarousel.framework */,
+				306562872BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4309A0D92B76E7EB002B92BC = {
+			isa = PBXGroup;
+			children = (
+				4309A0E42B76E7EB002B92BC /* Crumbelievable Mobile App */,
+				3065627F2BC5F3EC00D51B62 /* Pods */,
+				4309A0E32B76E7EB002B92BC /* Products */,
+				A16C4DC3574D7CFC99FD7752 /* Pods */,
+				C8C4B6E8D247570E4DF4F829 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4309A0E32B76E7EB002B92BC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4309A0E22B76E7EB002B92BC /* Crumbelievable Mobile App.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4309A0E42B76E7EB002B92BC /* Crumbelievable Mobile App */ = {
+			isa = PBXGroup;
+			children = (
+				431BEC232BD76427008914B1 /* TabBarViewController.swift */,
+				43A114A92BCDC0CE00675E83 /* Carousel3ViewController.swift */,
+				247778662BD1BBDA003EC651 /* CustomizationController.swift */,
+				43E41FB12BC3491C008C6193 /* apiFile.swift */,
+				43710B252B8D253400BE3C14 /* settingsViewController.swift */,
+				4309A0E52B76E7EB002B92BC /* AppDelegate.swift */,
+				4309A0E72B76E7EB002B92BC /* SceneDelegate.swift */,
+				4309A0E92B76E7EB002B92BC /* ViewController.swift */,
+				4309A0F92B7D698C002B92BC /* MenuViewController.swift */,
+				4309A0FF2B7D6A8F002B92BC /* RewardsViewController.swift */,
+				4309A0FD2B7D6A7B002B92BC /* AccountViewController.swift */,
+				242B49542B859C21009C7662 /* SignInController.swift */,
+				242B49562B859D40009C7662 /* CollectionViewController.swift */,
+				4309A0FB2B7D6A68002B92BC /* OrderViewController.swift */,
+				2477786C2BD1C0D4003EC651 /* ShowMeTheMoney.swift */,
+				43E41FA82BC0A9B5008C6193 /* Carousel1ViewController.swift */,
+				43E41FAA2BC0A9C3008C6193 /* Carousel2ViewController.swift */,
+				43E8102B2BDD52660003A899 /* TermsAndConditionsViewController.swift */,
+				4309A0EE2B76E7EE002B92BC /* Assets.xcassets */,
+				24691A902B86BD9500730565 /* crumb-logo.png */,
+				4309A0EB2B76E7EB002B92BC /* Main.storyboard */,
+				4335E1C52BDF4CAC00F3DAC0 /* ItalianViewController.swift */,
+				43E810362BDD53810003A899 /* ChangeInfoViewController.swift */,
+				43E810332BDD53420003A899 /* NotisViewController.swift */,
+				43E810312BDD53040003A899 /* CardHistoryViewController.swift */,
+				43E8102F2BDD52B70003A899 /* HistoryViewController.swift */,
+				43E41FAC2BC34117008C6193 /* PaymentViewController.swift */,
+				2482787E2BB60EBC00772802 /* cell2Class.swift */,
+				2482787F2BB60EBC00772802 /* cell2Class.xib */,
+				2482787C2BB60E5A00772802 /* sideviewViewController.swift */,
+				4309A0F02B76E7EE002B92BC /* LaunchScreen.storyboard */,
+				4309A0F32B76E7EE002B92BC /* Info.plist */,
+				247DD1C32BBE028200871F50 /* credentials.plist */,
+				24691A922B88049F00730565 /* CellsClass.swift */,
+				24691A932B88049F00730565 /* CellsClass.xib */,
+			);
+			path = "Crumbelievable Mobile App";
+			sourceTree = "<group>";
+		};
+		A16C4DC3574D7CFC99FD7752 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6434CC3E5DA13C034A699113 /* Pods-Crumbelievable Mobile App.debug.xcconfig */,
+				0C033DC22D15CECF3CB58295 /* Pods-Crumbelievable Mobile App.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C8C4B6E8D247570E4DF4F829 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AC67C2EF3984E16301A011F0 /* Pods_Crumbelievable_Mobile_App.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4309A0E12B76E7EB002B92BC /* Crumbelievable Mobile App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4309A0F62B76E7EE002B92BC /* Build configuration list for PBXNativeTarget "Crumbelievable Mobile App" */;
+			buildPhases = (
+				D61F485FEF0ADE90F01348AC /* [CP] Check Pods Manifest.lock */,
+				4309A0DE2B76E7EB002B92BC /* Sources */,
+				4309A0DF2B76E7EB002B92BC /* Frameworks */,
+				4309A0E02B76E7EB002B92BC /* Resources */,
+				954FED208F1E73204CC9D577 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Crumbelievable Mobile App";
+			packageProductDependencies = (
+				248F47002BAA4D8100B02627 /* SystemPackage */,
+				247DD1BF2BBE026000871F50 /* GoogleSignIn */,
+				247DD1C12BBE026000871F50 /* GoogleSignInSwift */,
+				247778622BD1BA9F003EC651 /* Frames */,
+			);
+			productName = "Crumbelievable Mobile App";
+			productReference = 4309A0E22B76E7EB002B92BC /* Crumbelievable Mobile App.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4309A0DA2B76E7EB002B92BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					4309A0E12B76E7EB002B92BC = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 4309A0DD2B76E7EB002B92BC /* Build configuration list for PBXProject "Crumbelievable Mobile App" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				it,
+			);
+			mainGroup = 4309A0D92B76E7EB002B92BC;
+			packageReferences = (
+				248F46FF2BAA4D8100B02627 /* XCRemoteSwiftPackageReference "swift-system" */,
+				247DD1BE2BBE026000871F50 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */,
+				247778612BD1BA9F003EC651 /* XCRemoteSwiftPackageReference "frames-ios" */,
+			);
+			productRefGroup = 4309A0E32B76E7EB002B92BC /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 306562802BC5F3EC00D51B62 /* Products */;
+					ProjectRef = 3065627E2BC5F3EC00D51B62 /* Pods.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				4309A0E12B76E7EB002B92BC /* Crumbelievable Mobile App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		306562852BC5F3EC00D51B62 /* iCarousel.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = iCarousel.framework;
+			remoteRef = 306562842BC5F3EC00D51B62 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		306562872BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			name = "Pods-Crumbelievable Mobile App";
+			path = Pods_Crumbelievable_Mobile_App.framework;
+			remoteRef = 306562862BC5F3EC00D51B62 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4309A0E02B76E7EB002B92BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24691A952B88049F00730565 /* CellsClass.xib in Resources */,
+				306562992BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.release.xcconfig in Resources */,
+				24691A912B86BD9500730565 /* crumb-logo.png in Resources */,
+				306562952BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-output-files.xcfilelist in Resources */,
+				3065629A2BC5F3EC00D51B62 /* Manifest.lock in Resources */,
+				4309A0F22B76E7EE002B92BC /* LaunchScreen.storyboard in Resources */,
+				306562962BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks.sh in Resources */,
+				306562922BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-input-files.xcfilelist in Resources */,
+				4309A0EF2B76E7EE002B92BC /* Assets.xcassets in Resources */,
+				3065628F2BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.markdown in Resources */,
+				306562982BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App.debug.xcconfig in Resources */,
+				306562892BC5F3EC00D51B62 /* LICENCE.md in Resources */,
+				4309A0ED2B76E7EB002B92BC /* Main.storyboard in Resources */,
+				306562902BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-acknowledgements.plist in Resources */,
+				3065628A2BC5F3EC00D51B62 /* README.md in Resources */,
+				306562942BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Release-input-files.xcfilelist in Resources */,
+				306562932BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-frameworks-Debug-output-files.xcfilelist in Resources */,
+				3065628E2BC5F3EC00D51B62 /* iCarousel.release.xcconfig in Resources */,
+				3065628D2BC5F3EC00D51B62 /* iCarousel.debug.xcconfig in Resources */,
+				247DD1C42BBE028200871F50 /* credentials.plist in Resources */,
+				3065628C2BC5F3EC00D51B62 /* iCarousel-Info.plist in Resources */,
+				306562972BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-Info.plist in Resources */,
+				248278812BB60EBC00772802 /* cell2Class.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		954FED208F1E73204CC9D577 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Crumbelievable Mobile App/Pods-Crumbelievable Mobile App-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Crumbelievable Mobile App/Pods-Crumbelievable Mobile App-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Crumbelievable Mobile App/Pods-Crumbelievable Mobile App-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D61F485FEF0ADE90F01348AC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Crumbelievable Mobile App-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4309A0DE2B76E7EB002B92BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43E810302BDD52B70003A899 /* HistoryViewController.swift in Sources */,
+				242B49572B859D40009C7662 /* CollectionViewController.swift in Sources */,
+				43E810342BDD53420003A899 /* NotisViewController.swift in Sources */,
+				248278802BB60EBC00772802 /* cell2Class.swift in Sources */,
+				43A114AA2BCDC0CE00675E83 /* Carousel3ViewController.swift in Sources */,
+				43E41FAB2BC0A9C3008C6193 /* Carousel2ViewController.swift in Sources */,
+				306562882BC5F3EC00D51B62 /* iCarousel.m in Sources */,
+				43E41FAD2BC34117008C6193 /* PaymentViewController.swift in Sources */,
+				4309A0EA2B76E7EB002B92BC /* ViewController.swift in Sources */,
+				4309A1002B7D6A8F002B92BC /* RewardsViewController.swift in Sources */,
+				43E41FA92BC0A9B5008C6193 /* Carousel1ViewController.swift in Sources */,
+				242B49552B859C21009C7662 /* SignInController.swift in Sources */,
+				247778672BD1BBDA003EC651 /* CustomizationController.swift in Sources */,
+				2477786D2BD1C0D4003EC651 /* ShowMeTheMoney.swift in Sources */,
+				4309A0FC2B7D6A68002B92BC /* OrderViewController.swift in Sources */,
+				4309A0FE2B7D6A7B002B92BC /* AccountViewController.swift in Sources */,
+				43E8102C2BDD52660003A899 /* TermsAndConditionsViewController.swift in Sources */,
+				306562912BC5F3EC00D51B62 /* Pods-Crumbelievable Mobile App-dummy.m in Sources */,
+				431BEC242BD76427008914B1 /* TabBarViewController.swift in Sources */,
+				2482787D2BB60E5A00772802 /* sideviewViewController.swift in Sources */,
+				43E810322BDD53040003A899 /* CardHistoryViewController.swift in Sources */,
+				43E810372BDD53810003A899 /* ChangeInfoViewController.swift in Sources */,
+				4335E1C62BDF4CAC00F3DAC0 /* ItalianViewController.swift in Sources */,
+				24691A942B88049F00730565 /* CellsClass.swift in Sources */,
+				43710B262B8D253400BE3C14 /* settingsViewController.swift in Sources */,
+				4309A0E62B76E7EB002B92BC /* AppDelegate.swift in Sources */,
+				4309A0E82B76E7EB002B92BC /* SceneDelegate.swift in Sources */,
+				4309A0FA2B7D698C002B92BC /* MenuViewController.swift in Sources */,
+				43E41FB22BC3491C008C6193 /* apiFile.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4309A0EB2B76E7EB002B92BC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4309A0EC2B76E7EB002B92BC /* Base */,
+				4335E1CA2BDF503B00F3DAC0 /* it */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4309A0F02B76E7EE002B92BC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4309A0F12B76E7EE002B92BC /* Base */,
+				4335E1CD2BDF503B00F3DAC0 /* it */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4309A0F42B76E7EE002B92BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4309A0F52B76E7EE002B92BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4309A0F72B76E7EE002B92BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6434CC3E5DA13C034A699113 /* Pods-Crumbelievable Mobile App.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L6TL6289D4;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Crumbelievable Mobile App/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mobile-App-Development-Team.Crumbelievable-Mobile-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4309A0F82B76E7EE002B92BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C033DC22D15CECF3CB58295 /* Pods-Crumbelievable Mobile App.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L6TL6289D4;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Crumbelievable Mobile App/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Mobile-App-Development-Team.Crumbelievable-Mobile-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4309A0DD2B76E7EB002B92BC /* Build configuration list for PBXProject "Crumbelievable Mobile App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4309A0F42B76E7EE002B92BC /* Debug */,
+				4309A0F52B76E7EE002B92BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4309A0F62B76E7EE002B92BC /* Build configuration list for PBXNativeTarget "Crumbelievable Mobile App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4309A0F72B76E7EE002B92BC /* Debug */,
+				4309A0F82B76E7EE002B92BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		247778612BD1BA9F003EC651 /* XCRemoteSwiftPackageReference "frames-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/checkout/frames-ios.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.3.4;
+			};
+		};
+		247DD1BE2BBE026000871F50 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/google/GoogleSignIn-iOS";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.1.0;
+			};
+		};
+		248F46FF2BAA4D8100B02627 /* XCRemoteSwiftPackageReference "swift-system" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-system.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		247778622BD1BA9F003EC651 /* Frames */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 247778612BD1BA9F003EC651 /* XCRemoteSwiftPackageReference "frames-ios" */;
+			productName = Frames;
+		};
+		247DD1BF2BBE026000871F50 /* GoogleSignIn */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 247DD1BE2BBE026000871F50 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
+			productName = GoogleSignIn;
+		};
+		247DD1C12BBE026000871F50 /* GoogleSignInSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 247DD1BE2BBE026000871F50 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
+			productName = GoogleSignInSwift;
+		};
+		248F47002BAA4D8100B02627 /* SystemPackage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 248F46FF2BAA4D8100B02627 /* XCRemoteSwiftPackageReference "swift-system" */;
+			productName = SystemPackage;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 4309A0DA2B76E7EB002B92BC /* Project object */;
+}
